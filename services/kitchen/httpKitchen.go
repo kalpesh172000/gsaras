@@ -81,6 +81,7 @@ var ordersTemplate = `
 	<td>{{.Quantity}}</td>
 	</tr>
 	{{end}}
+
 	</table>
 	</body> 
 	</html>
